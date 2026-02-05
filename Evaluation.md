@@ -1,10 +1,10 @@
 
-# IWSLT 2025 Low-Resource Speech Translation Task 
+# IWSLT 2026 Low-Resource Speech Translation Task 
 
 This is a Python script for evaluating the performance of speech translation systems using the BLEU and chrF metrics. The script takes as input a reference text file and a folder containing the hypothesis text files. It processes each hypothesis file and outputs the results in a tab-separated values (TSV) file.
 
 
-<a href="https://iwslt.org/2025/low-resource">IWSLT 2025 task homepage</a>
+<a href="https://iwslt.org/2026/low-resource">IWSLT 2026 task homepage</a>
 
 
 ## Requirements
